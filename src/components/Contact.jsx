@@ -58,13 +58,13 @@ const Contact = () => {
                     <p className="location">Location: Hyderabad</p>
                     <div className="social-icons">
                         <a href="https://github.com/AnilKumar1471" target="_blank" rel="noreferrer">
-                            <img src="https://www.svgrepo.com/download/512317/github-142.svg" alt="GitHub" />
+                            <img src="https://www.svgrepo.com/download/503359/github.svg" alt="GitHub" />
                         </a>
                         <a href="https://www.linkedin.com/in/anil-kumar-a0b387324" target="_blank" rel="noreferrer">
-                            <img src="https://www.svgrepo.com/download/521725/linkedin.svg" alt="LinkedIn" />
+                            <img src="https://www.svgrepo.com/download/448234/linkedin.svg" alt="LinkedIn" />
                         </a>
                         <a href="https://leetcode.com/u/tB9WZeJNJC/">
-                            <img src="https://www.svgrepo.com/download/341985/leetcode.svg" alt="leetcode" />
+                            <img src="https://www.svgrepo.com/download/306328/leetcode.svg" alt="leetcode" />
                         </a>
                     </div>
                 </div>
